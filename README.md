@@ -12,7 +12,10 @@ Libriaries used:
 Files in the repository:
 - README.md: Overview of the project and repository contents
 - stack-overflow-analysis.ipynb: Jupyter notebook containing data wrangling, analysis and visualizitions
-- data: https://survey.stackoverflow.co/
+- data/
+  - survey_results_schema.csv: A schema file describing the dataset structure
+  - survey_questions.pdf: A file with survey questions and methology
+  - Dataset: The main dataset is too large to include here, but it can be downloaded directly from the [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/)
 
 Results Summary:
 - Attitudes toward AI: Junior developers and experienced professionals show differences in how they perceive the benefits, accuracy and complexity of AI tools
