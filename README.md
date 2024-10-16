@@ -15,7 +15,7 @@ Files in the repository:
 - data/: Folder containing the dataset (as it is publicly available there will be instructions on how to access it)
 
 Results Summary:
-- Attutudes toward AI: Junior developers and experiences professionals show differences in how they perceive the benefits, accuracy and complexity of AI tools
+- Attitudes toward AI: Junior developers and experiences professionals show differences in how they perceive the benefits, accuracy and complexity of AI tools
 - Popular technologies: Among those learning to code, there are particular favorable programming languages, platforms and web frameworks
 - Remote work preferences: Larger companies tend to prefer remote work more than smaller ones, with notable differences across regions like the US, Germany, India and the UK.
 
