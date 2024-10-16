@@ -12,7 +12,7 @@ Libriaries used:
 Files in the repository:
 - README.md: Overview of the project and repository contents
 - stack-overflow-analysis.ipynb: Jupyter notebook containing data wrangling, analysis and visualizitions
-- data/: Folder containing the dataset (as it is publicly available there will be instructions on how to access it)
+- data: https://survey.stackoverflow.co/
 
 Results Summary:
 - Attitudes toward AI: Junior developers and experienced professionals show differences in how they perceive the benefits, accuracy and complexity of AI tools
