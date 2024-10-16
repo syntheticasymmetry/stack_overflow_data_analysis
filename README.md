@@ -11,7 +11,6 @@ Libriaries used:
 
 Files in the repository:
 - README.md: Overview of the project and repository contents
-- stack-overflow-analysis.ipynb: Jupyter notebook containing data wrangling, analysis and visualizitions
 - data/
   - survey_results_schema.csv: A schema file describing the dataset structure
   - survey_questions.pdf: A file with survey questions and methology
