@@ -17,6 +17,7 @@ Files in the repository:
   - Dataset: The main dataset is too large to include here, but it can be downloaded directly from the [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/)
 - notebooks/: Contains Jupyter notebooks with data wrangling, analysis and visualizations
   - StackOverflow-Analysis.ipynb: Main notebook with the analysis based on the 2024 Stack Overflow Developer Survey
+  - StackOverflow-Analysis_V2.ipynb: Updated notebook (added docstrings and visualizations for popular technologies based on the 2024 Stack Overflow Developer Survey)
 
 Results Summary:
 - Attitudes toward AI: Junior developers and experienced professionals show differences in how they perceive the benefits, accuracy and complexity of AI tools
