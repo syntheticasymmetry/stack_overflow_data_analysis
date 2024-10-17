@@ -24,4 +24,5 @@ Results Summary:
 - Remote work preferences: Larger companies tend to prefer remote work more than smaller ones, with notable differences across regions like the US, Germany, India and the UK.
 
 Acknowledgements
-- StackOverflow for providing the data used in this analysis
+- Dataset Credit: Stack Overflow, 2024 Developer Survey. Available at [Stack Overflow Developer Survey](https://survey.stackoverflow.co/).
+- Thanks to StackOverflow for providing the data used in this analysis.
